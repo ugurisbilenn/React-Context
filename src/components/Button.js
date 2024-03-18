@@ -7,7 +7,7 @@ function Button() {
     console.log(data);
   return (
     <div>
-      Button
+      Buttona
     </div>
   )
 }
